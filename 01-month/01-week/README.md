@@ -25,14 +25,3 @@ This week is about **how Node breathes**.
 🧠 **Senior signal**: You can predict execution order _before_ running code.
 
 ---
-
-## 🗓️ DAILY STRUCTURE (repeatable)
-
-**Per day (~6–8h):**
-
-- 2–3h learning (docs > videos)
-- 3h coding
-- 30 min reading (Node docs, blog posts)
-- 30 min code review (your own)
-
----

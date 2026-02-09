@@ -1,7 +1,5 @@
 # 🗓️ FULL-TIME BACKEND ROADMAP
 
-Assume **6–8 hours/day**, 5 days/week.
-
 ---
 
 ## PHASE 1 (Month 1): Backend Foundations (Senior Level)
@@ -234,18 +232,5 @@ Add:
 - ETL basics
 - Large data ingestion
 - Batch processing
-
----
-
-## 🧠 DAILY STRUCTURE (important)
-
-Since you’re full-time:
-
-- 3–4h learning
-- 3–4h building
-- 30 min reading docs / blogs
-- 30 min reviewing code
-
-No burnout. Consistency wins.
 
 ---
