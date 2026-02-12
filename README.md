@@ -97,7 +97,7 @@ Frameworks must depend on **your code**, not the opposite.
 
 ### 🔹 Node.js (Advanced)
 
-You already know Node — now go deep.
+now we go deep.
 
 **Master:**
 
